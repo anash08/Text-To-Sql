@@ -19,8 +19,8 @@ To set up and run this application locally, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/anash08/Text-To-Sql.git
+cd 
 ```
 
 ### 2. Create a Virtual Environment
